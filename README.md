@@ -1,5 +1,7 @@
 # ThurmChess
-Source to thurmchess. Will be periodically updated when I remember to
+Source to thurmchess. Will be periodically updated when I remember to.
+All gamemodes (other than online, obviously) can be played offline as they don't require network components.
+
 ### Live site can be found [here](http://thurm.us/chess).
 ## Files
 **Game Mechanics**
@@ -25,4 +27,3 @@ Stylesheet is in css/styles.css
 
 Stockfish.js is not my work, go check out the people who are way smarter than me that made it [here](https://github.com/nmrugg/stockfish.js).
 
-All gamemodes other than online can be played offline as they don't require network components.
